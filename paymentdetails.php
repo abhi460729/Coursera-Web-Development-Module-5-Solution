@@ -10,7 +10,7 @@
 <body>
 	<div class="container" style="width:600px; margin-top:200px">
 			<div class="card">
-				<img src="images/5.jpg" class="card-img-top">
+				<img src="images1/5.jpg" class="card-img-top">
 				<div class ="card-body">
 			<form action="https://www.onlinesbi.com/">
     <input type="submit" class="btn btn-primary" value="Proceed to Pay" />
