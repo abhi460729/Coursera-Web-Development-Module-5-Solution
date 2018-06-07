@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 </head>
 <body>
-<div class="jumbotron" style="background:url('images/3.jpg') no-repeat;background-size:cover;height:500px;"></div>
+<div class="jumbotron" style="background:url('images1/3.jpg') no-repeat;background-size:cover;height:500px;"></div>
 <div class="container">
 	<div class="card">
 		<div class="card-body" style="background-color:#3498DB;color:#ffffff;">
