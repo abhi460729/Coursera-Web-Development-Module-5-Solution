@@ -6,12 +6,11 @@
 	#ab1;hover{cursor:pointer;}
 </style>
 	</head>
-	<div class="jumbotron" style="background:url('images/3.jpg') no-repeat;background-size:cover;height:500px;"></div>
+	<div class="jumbotron" style="background:url('images1/3.jpg') no-repeat;background-size:cover;height:500px;"></div>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-3">
 			<div class ="list-group" style="background-color:#3498DB;color:#ffffff;bodor-color:#3498DB">
-				<a href="index.html" class="list-group-item">Menu</a>
 				<a href="" class="list-group-item active">Customers</a>
 				<a href="customerdetails.php" class="list-group-item">Order Details</a>
 				<a href="paymentdetails.php" class="list-group-item">Payment</a>
