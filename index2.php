@@ -6,10 +6,10 @@
 	#ab1;hover{cursor:pointer;}
 </style>
 	</head>
-	<body style="background:url('images/3.jpg') no-repeat;background-size:cover;">
+	<body style="background:url('images1/3.jpg') no-repeat;background-size:cover;">
 		<div class="container" style="width:400px; margin-top:100px">
 			<div class="card">
-				<img src="images/1.jpg" class="card-img-top">
+				<img src="images1/1.jpg" class="card-img-top">
 				<div class ="card-body">
 			<form class="form-group" action="func.php" method="post">
 				<label>Username :</label><br>
